@@ -2,4 +2,4 @@
 <br>
 This is my first git repo
 <br>
-Author-Ipsita
+Author-Ipsita Panda
